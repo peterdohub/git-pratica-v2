@@ -1,1 +1,1 @@
-O git salvou nossa vida!
+O git é bem fácil de aprender!
